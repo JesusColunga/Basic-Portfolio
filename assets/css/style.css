@@ -1,0 +1,14 @@
+/* style.css */
+/* 18/Feb/2019 */
+
+#nombre {
+    background:     #4FC0B8;
+    color:          white;
+    height:         40px;
+    width:          120px;
+    float:          left;
+}
+
+.ContenidoCentral {
+    margin:         30px 100px 0px 100px;
+}

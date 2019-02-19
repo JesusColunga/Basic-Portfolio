@@ -1,0 +1,66 @@
+/*  style.css  */
+/* 18/Feb/2019 */
+
+body {
+    background: gray;
+}
+
+header, footer, nav {
+    background: white;
+    color:      gray;
+    text-align: center;
+    height:     70px;
+    width:      80%;
+    margin:     10px 10% 10px 10%;
+}
+
+div {
+    margin:     20px 10% 20px 10%;
+    height:     200px;
+}
+
+section {
+    background: white;
+    color:      gray;
+    text-align: center;
+    height:     200px;
+    width:      55%;
+    margin:     0;
+    float:      left;
+}
+
+aside {
+    background: white;
+    color:      gray;
+    text-align: center;
+    height:     200px;
+    width:      43%;
+    margin:     0;
+    float:      right;
+}
+
+.div2 {         /* article */
+    background: gray;
+    color:      white;
+    text-align: center;
+    height:     135px;
+    width:      433px;
+    margin-left: 8px;
+}
+
+.section2 {
+    background: white;
+    color:      gray;
+    text-align: center;
+    height:     35px;
+    width:      410px;
+    margin:     5px 10px 5px 10px;
+}
+
+.MargenSup1 {
+    margin-top: 15px;
+}
+
+.MargenSup2 {
+    margin-top: 8px;
+}
