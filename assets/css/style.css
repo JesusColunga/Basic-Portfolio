@@ -1,14 +1,69 @@
 /* style.css */
-/* 18/Feb/2019 */
+/* 20/Feb/2019 */
 
-#nombre {
-    background:     #4FC0B8;
-    color:          white;
-    height:         40px;
-    width:          120px;
-    float:          left;
+body {
+    background: blue;
+    margin: 0;
 }
 
+a {
+    padding:        0px 15px 0px 15px;
+}
+
+h1 {
+    padding:        10px;
+}
+
+/* - - - -  id  - - - - - */
+#navegacion {
+    background:     black;
+    color:          white;
+    /*padding-top:  20px;
+    padding-bottom: 20px;*/
+    height:         60px;
+    width:          100%;
+    margin:         0 0 20px 0;
+    
+}
+
+#nombre {   
+    background:     #4aaaa5;
+    color:          white;
+    height:         20px;
+    width:          120px;
+    float:          left;
+    padding:        20px;
+    font-family:    'Georgia', Times, Times New Roman, serif;
+}
+
+#ligas {
+    background:     yellow;
+    color:          red;
+    height:         20px;
+    width:          350px;
+    float:          right;
+    padding:        20px;
+}
+
+#parrafo1 {
+
+}
+
+#rollo1 {
+    float: right;
+}
+/* - - - -  class  - - - - - */
 .ContenidoCentral {
-    margin:         30px 100px 0px 100px;
+    background:     white;
+    width:          960px;
+    margin:         0 auto;
+    /*margin:         30px 100px 0px 100px;*/
+}
+
+.pie {
+    background:     #666666;
+    background:     black;
+    color:          white;
+    height:         30px;
+    text-align:     center;
 }
