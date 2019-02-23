@@ -33,7 +33,6 @@ p {
 /* - - - -  id  - - - - - */
 #navegacion {
     background:     #ffffff;
-    /*color:          white;*/
     height:         60px;
     margin:         0 0 20px 0;
     border-style:   solid;
@@ -85,7 +84,6 @@ p {
 }
 
 #imagen2 {
-    /*float:          right;*/
     margin-left:    100px;
 }
 
@@ -98,6 +96,7 @@ p {
 #rollo2 {
     margin:         0 20px 16px 30px;
 }
+
 /* - - - -  class  - - - - - */
 .pie {
     background:     #666666;
@@ -107,15 +106,4 @@ p {
     border-top:     8px solid #4aaaa5;
     margin:         20px 0 0 0;
     padding-top:    30px;
-}
-.contenedor {
-    position: relative;
-    text-align: center;
-    /*color: white;  */
-}
-
-.TextoImagen {
-    position: absolute;
-    bottom: 8px;
-    left: 16px;  
 }
